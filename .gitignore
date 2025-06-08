@@ -1,0 +1,26 @@
+# Miscellaneous
+*.DS_Store
+
+# Environment files
+*.env
+!.pplog.env
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Dependency directory
+vendor/
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
